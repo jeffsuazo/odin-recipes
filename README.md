@@ -1,0 +1,1 @@
+This is my first HTML project based on The Odin Project's path to become a full stack web developer. I learned to setup Github, use Git, Command Line, Linux, HTML basics such ass hiperlinks, images, headings, and paragraphs.
