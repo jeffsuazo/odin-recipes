@@ -1,0 +1,10 @@
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+#listed {
+    background-color: black;
+    color: white;
+}
